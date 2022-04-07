@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/s2way/logger.git"
+    "url": "https://github.com/HereITBrasil/logger.git"
   },
   "keywords": [
     "query builder",
     "mysql"
   ],
-  "author": "Newborns/S2Way",
+  "author": "HereITBrasil",
   "bugs": {
-    "url": "https://github.com/s2way/logger/issues"
+    "url": "https://github.com/HereITBrasil/logger/issues"
   },
-  "homepage": "https://github.com/s2way/logger",
+  "homepage": "https://github.com/HereITBrasil/logger",
   "devDependencies": {
     "coffee-script": "latest",
     "coffeelint": "^1.9.4",
@@ -30,7 +30,7 @@
     "moment": "2.14.1",
     "request": "2.73.0",
     "winston": "2.2.0",
-    "winston-daily-rotate-file": "https://github.com/rodolforios/winston-daily-rotate-file.git",
+    "winston-daily-rotate-file": "https://github.com/HereITBrasil/winston-daily-rotate-file.git",
     "winston-loggly": "1.3.1"
   }
 }
